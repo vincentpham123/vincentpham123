@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning python!
 - 🤖 I love building Gundam Models!
-- 💼 Here is a link to my portfolio site : <a target='_blank' href='https://vincentpham123.github.io/'>Learn more about me</a>
+- 💼 Here is a link to my portfolio site : <a target='blank' href='https://vincentpham123.github.io/'>Learn more about me</a>
 
   
 
